@@ -4,7 +4,7 @@
 
 # How to install Vue CLI 3.md
 
-## 1. Vue CLI requires [Node.js](https://nodejs.org/en/)
+## 1. Vue CLI requires [Node.js](https://nodejs.org/en/) if you don't have install it
 
 ## 2. To install the new package, use one of those commands:
 
