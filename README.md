@@ -24,7 +24,7 @@ npm run test
 ```
 npm run lint
 ```
-## IMPORTANT NOTE! We have already installed Vue CLI the steps below are just if you want do it from scratch on your own!
+## IMPORTANT NOTE! I've have already installed Vue CLI in this repo. So the steps below are just if you want do it from scratch on your own!
 
 ## For our lecture we will be using [Vue CLI 3](https://cli.vuejs.org/) which is Standard Tooling for Vue.js Development 
 
