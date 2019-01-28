@@ -43,11 +43,6 @@ yarn serve
 yarn build
 ```
 
-### Run your tests
-```
-yarn test
-```
-
 ### Lints and fixes files
 ```
 yarn lint
