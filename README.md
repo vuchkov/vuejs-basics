@@ -2,7 +2,7 @@
 
 ## For our lecture we will be using [Vue CLI 3](https://cli.vuejs.org/) which is Standard Tooling for Vue.js Development 
 
-# How to install Vue CLI 3.md
+# How to install Vue CLI 3?
 
 ## 1. Vue CLI requires [Node.js](https://nodejs.org/en/) if you don't have install it
 
@@ -14,7 +14,7 @@ npm install -g @vue/cli
 yarn global add @vue/cli
 ```
 
-### You can check you have the right version (3.x) with this command:
+### 2.1 You can check you have the right version (3.x) with this command:
 
 ```sh
 vue --version
