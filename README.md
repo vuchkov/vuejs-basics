@@ -1,5 +1,31 @@
 # VueJS Basics and Vue CLI 3 workshop by Boris Nekezov
 
+## Project setup with NPM(Node Package Manager)
+```
+npm install 
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+## IMPORTANT NOTE! We have already installed Vue CLI the steps below are just if you want do it from scratch on your own!
+
 ## For our lecture we will be using [Vue CLI 3](https://cli.vuejs.org/) which is Standard Tooling for Vue.js Development 
 
 ## How to install Vue CLI 3?
@@ -25,33 +51,7 @@ vue --version
 vue create hello-world
 ```
 
-## Project setup with NPM(Node Package Manager)
-```
-npm install 
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
----
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 
