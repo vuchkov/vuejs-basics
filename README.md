@@ -51,7 +51,24 @@ vue --version
 vue create hello-world
 ```
 
+## I've added Bootstrap framework using only its styles:
 
+```sh
+npm install bootstrap
+```
 
+### Then add in main.js
+```js
+import Vue from 'vue'
+import App from './App.vue'
 
+// Import Bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+Vue.config.productionTip = false;
+
+new Vue({
+  render: h => h(App),
+}).$mount('#app');
+```
 
