@@ -1,4 +1,4 @@
-# VueJS Basics by Boris Nekezov
+# VueJS Basics and Vue CLI 3 workshop by Boris Nekezov
 
 ## For our lecture we will be using [Vue CLI 3](https://cli.vuejs.org/) which is Standard Tooling for Vue.js Development 
 
